@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and Data
+logs/
+*.log
+*.tlog
+*.raw
+*.bin
+*.out
+
+# System and IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Binaries and Archives
+*.deb
+*.tgz
+*.zip
+*.AppImage
+*.tar.zst
